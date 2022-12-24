@@ -1,9 +1,9 @@
 # Token
 
-This is a project to transfer or buy my on-chain tokens. This project was inspired by [Curve Finance] (https://curve.fi/#/ethereum/swap). In Curve, you can transfer all kinds of crypto currency, but in my token project, you can only transfer the KCON token. You can get 10,000 free KCON tokens on your first visit.
+This is a project to transfer or buy my on-chain tokens. This project was inspired by [Curve Finance](https://curve.fi/#/ethereum/swap). In Curve, you can transfer all kinds of crypto currency, but in my token project, you can only transfer the KCON token. You can get 10,000 free KCON tokens on your first visit.
 
 
-You can visit [Ksurv] (https://emuqj-xyaaa-aaaam-abana-cai.ic0.app/) if my entire IC cycle is not burned 😂😂. I got some TC (trillion cycles) for free by joining the IC or DFX communities. As a result, after a while, all of the cycles will burn out, and we will no longer be able to host this site. But we can also buy Cycle, but it is priced in dollers, and my salary also does not come in dollers 😂😂.
+You can visit [Ksurv](https://emuqj-xyaaa-aaaam-abana-cai.ic0.app/) if my entire IC cycle is not burned 😂😂. I got some TC (trillion cycles) for free by joining the IC or DFX communities. As a result, after a while, all of the cycles will burn out, and we will no longer be able to host this site. But we can also buy Cycle, but it is priced in dollers, and my salary also does not come in dollers 😂😂.
 
 Fort end is built with react js. 
 
